@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WorshipManager.Api/WorshipManager.Api.csproj" />
+    <Project Path="src/WorshipManager.Application/WorshipManager.Application.csproj" />
+    <Project Path="src/WorshipManager.Core/WorshipManager.Core.csproj" />
+    <Project Path="src/WorshipManager.Infrastructure/WorshipManager.Infrastructure.csproj" />
+  </Folder>
+</Solution>
